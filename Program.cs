@@ -5,6 +5,17 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            var circle = new Circle(2);
+
+
+
+
+
+
+
+
+
         }
     }
 }
