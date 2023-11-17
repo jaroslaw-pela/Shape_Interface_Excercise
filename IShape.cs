@@ -8,7 +8,6 @@ namespace Shape_Interface_Excercise
 {
     public interface IShape
     {
-        // TODO: Zadeklaruj metody CalculateArea i CalculatePerimeter w interfejsie IShape.
         double CalculateArea();
 
         double CalculatePerimeter();
